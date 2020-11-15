@@ -1,1 +1,2 @@
-#This is my first time setting up a git repo on my own
+This github repository is the home of all my personal work from both my 
+educational and personal experiences.
