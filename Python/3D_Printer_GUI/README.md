@@ -2,6 +2,7 @@ This program is meant to aid in the controlling of a ceramic 3D Delta
 Configured Printer that is running the marlin firmware via a USB Connection.
 
 Implemented Features as of: 12/06/19
+#
 Features:
 - File Drop.
 - File Selection.
