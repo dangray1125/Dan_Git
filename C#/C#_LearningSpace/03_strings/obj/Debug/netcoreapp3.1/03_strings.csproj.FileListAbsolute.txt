@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/obj/Debug/netcoreapp3.1/03_strings.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/obj/Debug/netcoreapp3.1/03_strings.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/obj/Debug/netcoreapp3.1/03_strings.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/bin/Debug/netcoreapp3.1/03_strings
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/bin/Debug/netcoreapp3.1/03_strings.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/bin/Debug/netcoreapp3.1/03_strings.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/bin/Debug/netcoreapp3.1/03_strings.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/bin/Debug/netcoreapp3.1/03_strings.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/bin/Debug/netcoreapp3.1/03_strings.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/obj/Debug/netcoreapp3.1/03_strings.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_strings/obj/Debug/netcoreapp3.1/03_strings.pdb
