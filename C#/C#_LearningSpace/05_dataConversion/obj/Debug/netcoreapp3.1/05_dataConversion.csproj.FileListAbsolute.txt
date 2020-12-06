@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/bin/Debug/netcoreapp3.1/05_dataConversion
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/bin/Debug/netcoreapp3.1/05_dataConversion.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/bin/Debug/netcoreapp3.1/05_dataConversion.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/bin/Debug/netcoreapp3.1/05_dataConversion.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/bin/Debug/netcoreapp3.1/05_dataConversion.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/bin/Debug/netcoreapp3.1/05_dataConversion.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/obj/Debug/netcoreapp3.1/05_dataConversion.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/obj/Debug/netcoreapp3.1/05_dataConversion.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/obj/Debug/netcoreapp3.1/05_dataConversion.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/obj/Debug/netcoreapp3.1/05_dataConversion.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_dataConversion/obj/Debug/netcoreapp3.1/05_dataConversion.pdb

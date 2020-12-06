@@ -1,0 +1,5 @@
+dotnet new console -o "project name"                **** creates new c# project from the console
+
+dotnet build                                        **** compiles the current c# project
+
+dotnet run                                          **** runs the current c# project

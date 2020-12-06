@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/bin/Debug/netcoreapp3.1/04_userinputs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/bin/Debug/netcoreapp3.1/04_userinputs.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/bin/Debug/netcoreapp3.1/04_userinputs.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/bin/Debug/netcoreapp3.1/04_userinputs.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/bin/Debug/netcoreapp3.1/04_userinputs.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/bin/Debug/netcoreapp3.1/04_userinputs.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/obj/Debug/netcoreapp3.1/04_userinputs.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/obj/Debug/netcoreapp3.1/04_userinputs.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/obj/Debug/netcoreapp3.1/04_userinputs.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/obj/Debug/netcoreapp3.1/04_userinputs.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_userinputs/obj/Debug/netcoreapp3.1/04_userinputs.pdb
