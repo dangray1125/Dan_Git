@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/obj/Debug/netcoreapp3.1/06_StringToInt.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/obj/Debug/netcoreapp3.1/06_StringToInt.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/obj/Debug/netcoreapp3.1/06_StringToInt.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/bin/Debug/netcoreapp3.1/06_StringToInt
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/bin/Debug/netcoreapp3.1/06_StringToInt.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/bin/Debug/netcoreapp3.1/06_StringToInt.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/bin/Debug/netcoreapp3.1/06_StringToInt.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/bin/Debug/netcoreapp3.1/06_StringToInt.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/bin/Debug/netcoreapp3.1/06_StringToInt.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/obj/Debug/netcoreapp3.1/06_StringToInt.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/06_StringToInt/obj/Debug/netcoreapp3.1/06_StringToInt.pdb
