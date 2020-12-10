@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/obj/Debug/netcoreapp3.1/07_StringMethods.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/obj/Debug/netcoreapp3.1/07_StringMethods.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/obj/Debug/netcoreapp3.1/07_StringMethods.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/bin/Debug/netcoreapp3.1/07_StringMethods
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/bin/Debug/netcoreapp3.1/07_StringMethods.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/bin/Debug/netcoreapp3.1/07_StringMethods.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/bin/Debug/netcoreapp3.1/07_StringMethods.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/bin/Debug/netcoreapp3.1/07_StringMethods.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/bin/Debug/netcoreapp3.1/07_StringMethods.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/obj/Debug/netcoreapp3.1/07_StringMethods.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/07_StringMethods/obj/Debug/netcoreapp3.1/07_StringMethods.pdb

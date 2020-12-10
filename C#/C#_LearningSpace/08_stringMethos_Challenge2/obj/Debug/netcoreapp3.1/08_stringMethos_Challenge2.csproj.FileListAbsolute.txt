@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/obj/Debug/netcoreapp3.1/08_stringMethos_Challenge2.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/obj/Debug/netcoreapp3.1/08_stringMethos_Challenge2.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/obj/Debug/netcoreapp3.1/08_stringMethos_Challenge2.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/bin/Debug/netcoreapp3.1/08_stringMethos_Challenge2
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/bin/Debug/netcoreapp3.1/08_stringMethos_Challenge2.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/bin/Debug/netcoreapp3.1/08_stringMethos_Challenge2.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/bin/Debug/netcoreapp3.1/08_stringMethos_Challenge2.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/bin/Debug/netcoreapp3.1/08_stringMethos_Challenge2.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/bin/Debug/netcoreapp3.1/08_stringMethos_Challenge2.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/obj/Debug/netcoreapp3.1/08_stringMethos_Challenge2.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/08_stringMethos_Challenge2/obj/Debug/netcoreapp3.1/08_stringMethos_Challenge2.pdb
