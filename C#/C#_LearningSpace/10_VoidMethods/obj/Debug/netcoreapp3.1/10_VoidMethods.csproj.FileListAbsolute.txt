@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/obj/Debug/netcoreapp3.1/10_VoidMethods.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/obj/Debug/netcoreapp3.1/10_VoidMethods.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/obj/Debug/netcoreapp3.1/10_VoidMethods.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/bin/Debug/netcoreapp3.1/10_VoidMethods
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/bin/Debug/netcoreapp3.1/10_VoidMethods.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/bin/Debug/netcoreapp3.1/10_VoidMethods.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/bin/Debug/netcoreapp3.1/10_VoidMethods.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/bin/Debug/netcoreapp3.1/10_VoidMethods.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/bin/Debug/netcoreapp3.1/10_VoidMethods.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/obj/Debug/netcoreapp3.1/10_VoidMethods.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/10_VoidMethods/obj/Debug/netcoreapp3.1/10_VoidMethods.pdb

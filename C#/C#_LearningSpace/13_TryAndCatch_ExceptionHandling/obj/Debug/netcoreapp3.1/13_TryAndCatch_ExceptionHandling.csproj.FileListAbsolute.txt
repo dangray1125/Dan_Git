@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/bin/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/bin/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/bin/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/bin/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/bin/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/bin/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/obj/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/obj/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/obj/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/obj/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/13_TryAndCatch_ExceptionHandling/obj/Debug/netcoreapp3.1/13_TryAndCatch_ExceptionHandling.pdb

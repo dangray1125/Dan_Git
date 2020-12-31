@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/obj/Debug/netcoreapp3.1/14_ifStatments.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/obj/Debug/netcoreapp3.1/14_ifStatments.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/obj/Debug/netcoreapp3.1/14_ifStatments.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/bin/Debug/netcoreapp3.1/14_ifStatments
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/bin/Debug/netcoreapp3.1/14_ifStatments.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/bin/Debug/netcoreapp3.1/14_ifStatments.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/bin/Debug/netcoreapp3.1/14_ifStatments.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/bin/Debug/netcoreapp3.1/14_ifStatments.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/bin/Debug/netcoreapp3.1/14_ifStatments.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/obj/Debug/netcoreapp3.1/14_ifStatments.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/14_ifStatments/obj/Debug/netcoreapp3.1/14_ifStatments.pdb

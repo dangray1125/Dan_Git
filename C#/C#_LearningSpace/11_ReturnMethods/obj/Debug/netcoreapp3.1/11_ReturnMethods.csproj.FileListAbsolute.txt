@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/bin/Debug/netcoreapp3.1/11_ReturnMethods
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/bin/Debug/netcoreapp3.1/11_ReturnMethods.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/bin/Debug/netcoreapp3.1/11_ReturnMethods.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/bin/Debug/netcoreapp3.1/11_ReturnMethods.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/bin/Debug/netcoreapp3.1/11_ReturnMethods.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/bin/Debug/netcoreapp3.1/11_ReturnMethods.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/obj/Debug/netcoreapp3.1/11_ReturnMethods.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/obj/Debug/netcoreapp3.1/11_ReturnMethods.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/obj/Debug/netcoreapp3.1/11_ReturnMethods.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/obj/Debug/netcoreapp3.1/11_ReturnMethods.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/11_ReturnMethods/obj/Debug/netcoreapp3.1/11_ReturnMethods.pdb

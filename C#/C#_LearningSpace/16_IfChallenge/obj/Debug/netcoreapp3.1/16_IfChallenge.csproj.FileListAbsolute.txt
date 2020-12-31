@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/obj/Debug/netcoreapp3.1/16_IfChallenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/obj/Debug/netcoreapp3.1/16_IfChallenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/obj/Debug/netcoreapp3.1/16_IfChallenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/bin/Debug/netcoreapp3.1/16_IfChallenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/bin/Debug/netcoreapp3.1/16_IfChallenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/bin/Debug/netcoreapp3.1/16_IfChallenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/bin/Debug/netcoreapp3.1/16_IfChallenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/bin/Debug/netcoreapp3.1/16_IfChallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/bin/Debug/netcoreapp3.1/16_IfChallenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/obj/Debug/netcoreapp3.1/16_IfChallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/16_IfChallenge/obj/Debug/netcoreapp3.1/16_IfChallenge.pdb

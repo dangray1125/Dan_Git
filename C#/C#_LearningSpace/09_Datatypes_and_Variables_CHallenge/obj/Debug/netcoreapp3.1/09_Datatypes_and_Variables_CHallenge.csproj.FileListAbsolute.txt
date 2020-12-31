@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/obj/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/obj/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/obj/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/bin/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/bin/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/bin/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/bin/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/bin/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/bin/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/obj/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/09_Datatypes_and_Variables_CHallenge/obj/Debug/netcoreapp3.1/09_Datatypes_and_Variables_CHallenge.pdb

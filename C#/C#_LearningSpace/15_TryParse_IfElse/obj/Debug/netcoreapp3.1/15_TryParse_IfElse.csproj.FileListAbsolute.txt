@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/obj/Debug/netcoreapp3.1/15_TryParse_IfElse.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/obj/Debug/netcoreapp3.1/15_TryParse_IfElse.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/obj/Debug/netcoreapp3.1/15_TryParse_IfElse.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/bin/Debug/netcoreapp3.1/15_TryParse_IfElse
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/bin/Debug/netcoreapp3.1/15_TryParse_IfElse.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/bin/Debug/netcoreapp3.1/15_TryParse_IfElse.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/bin/Debug/netcoreapp3.1/15_TryParse_IfElse.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/bin/Debug/netcoreapp3.1/15_TryParse_IfElse.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/bin/Debug/netcoreapp3.1/15_TryParse_IfElse.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/obj/Debug/netcoreapp3.1/15_TryParse_IfElse.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/15_TryParse_IfElse/obj/Debug/netcoreapp3.1/15_TryParse_IfElse.pdb

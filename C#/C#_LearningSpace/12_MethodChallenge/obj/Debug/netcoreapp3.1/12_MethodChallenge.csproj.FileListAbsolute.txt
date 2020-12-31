@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/obj/Debug/netcoreapp3.1/12_MethodChallenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/obj/Debug/netcoreapp3.1/12_MethodChallenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/obj/Debug/netcoreapp3.1/12_MethodChallenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/bin/Debug/netcoreapp3.1/12_MethodChallenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/bin/Debug/netcoreapp3.1/12_MethodChallenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/bin/Debug/netcoreapp3.1/12_MethodChallenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/bin/Debug/netcoreapp3.1/12_MethodChallenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/bin/Debug/netcoreapp3.1/12_MethodChallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/bin/Debug/netcoreapp3.1/12_MethodChallenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/obj/Debug/netcoreapp3.1/12_MethodChallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/12_MethodChallenge/obj/Debug/netcoreapp3.1/12_MethodChallenge.pdb

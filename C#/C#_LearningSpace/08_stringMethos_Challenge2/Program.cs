@@ -30,11 +30,11 @@ namespace _08_stringMethos_Challenge2
             string charLookup;
             charLookup = Console.ReadLine();
             Console.WriteLine("Enter the character you want to find the index of.");
-            string myChar;
-            myChar = Console.ReadLine();
+            char myChar;
+            myChar = Console.ReadLine()[0];// read line of char position [0]
             int indexChar;
-            indexChar = (charLookup.IndexOf(myChar));
-            Console.WriteLine("Your character {0} is founf at index: {1}",myChar,indexChar);
+            indexChar = charLookup.IndexOf(myChar);
+            Console.WriteLine("Your character {0} is found at index: {1}, of the string {2}",myChar,indexChar,charLookup);
 
             Console.WriteLine("Enter you first name");
             string fName;
@@ -42,11 +42,10 @@ namespace _08_stringMethos_Challenge2
             Console.WriteLine("Enter your last name");
             string lName;
             lName = Console.ReadLine();
-            string spaceSaver = " ";
-            string name =String.Concat(fName, spaceSaver, lName);
+            string name = string.Concat(fName, " ", lName);
 
-            Console.WriteLine(name);
-            Console.Read();
+            Console.WriteLine("Your full name is {0}",name);
+            Console.ReadKey();
         }
     }
 }
