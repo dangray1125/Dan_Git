@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/obj/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/obj/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/obj/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/bin/Debug/netcoreapp3.1/18_tearnary_operator_Challenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/bin/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/bin/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/bin/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/bin/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/bin/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/obj/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/18_tearnary_operator_Challenge/obj/Debug/netcoreapp3.1/18_tearnary_operator_Challenge.pdb
