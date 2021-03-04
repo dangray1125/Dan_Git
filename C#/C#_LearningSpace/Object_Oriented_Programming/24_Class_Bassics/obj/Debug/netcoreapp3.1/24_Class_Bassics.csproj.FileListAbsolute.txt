@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/obj/Debug/netcoreapp3.1/24_Class_Bassics.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/obj/Debug/netcoreapp3.1/24_Class_Bassics.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/obj/Debug/netcoreapp3.1/24_Class_Bassics.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/bin/Debug/netcoreapp3.1/24_Class_Bassics
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/bin/Debug/netcoreapp3.1/24_Class_Bassics.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/bin/Debug/netcoreapp3.1/24_Class_Bassics.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/bin/Debug/netcoreapp3.1/24_Class_Bassics.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/bin/Debug/netcoreapp3.1/24_Class_Bassics.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/bin/Debug/netcoreapp3.1/24_Class_Bassics.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/obj/Debug/netcoreapp3.1/24_Class_Bassics.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/obj/Debug/netcoreapp3.1/24_Class_Bassics.pdb

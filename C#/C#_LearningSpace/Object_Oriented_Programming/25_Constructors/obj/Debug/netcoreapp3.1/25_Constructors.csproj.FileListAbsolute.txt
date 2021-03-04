@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/obj/Debug/netcoreapp3.1/25_Constructors.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/obj/Debug/netcoreapp3.1/25_Constructors.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/obj/Debug/netcoreapp3.1/25_Constructors.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/bin/Debug/netcoreapp3.1/25_Constructors
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/bin/Debug/netcoreapp3.1/25_Constructors.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/bin/Debug/netcoreapp3.1/25_Constructors.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/bin/Debug/netcoreapp3.1/25_Constructors.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/bin/Debug/netcoreapp3.1/25_Constructors.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/bin/Debug/netcoreapp3.1/25_Constructors.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/obj/Debug/netcoreapp3.1/25_Constructors.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/25_Constructors/obj/Debug/netcoreapp3.1/25_Constructors.pdb

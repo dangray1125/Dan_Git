@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/24_Class_Bassics.csproj": {}
+  },
+  "projects": {
+    "/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/24_Class_Bassics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/24_Class_Bassics.csproj",
+        "projectName": "24_Class_Bassics",
+        "projectPath": "/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/24_Class_Bassics.csproj",
+        "packagesPath": "/home/dan/.nuget/packages/",
+        "outputPath": "/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/24_Class_Bassics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
