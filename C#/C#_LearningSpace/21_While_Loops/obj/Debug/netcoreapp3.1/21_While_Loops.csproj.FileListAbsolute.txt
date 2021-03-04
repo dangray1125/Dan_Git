@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/bin/Debug/netcoreapp3.1/21_While_Loops
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/bin/Debug/netcoreapp3.1/21_While_Loops.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/bin/Debug/netcoreapp3.1/21_While_Loops.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/bin/Debug/netcoreapp3.1/21_While_Loops.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/bin/Debug/netcoreapp3.1/21_While_Loops.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/bin/Debug/netcoreapp3.1/21_While_Loops.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/obj/Debug/netcoreapp3.1/21_While_Loops.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/obj/Debug/netcoreapp3.1/21_While_Loops.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/obj/Debug/netcoreapp3.1/21_While_Loops.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/obj/Debug/netcoreapp3.1/21_While_Loops.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/21_While_Loops/obj/Debug/netcoreapp3.1/21_While_Loops.pdb

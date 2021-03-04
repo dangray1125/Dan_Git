@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/bin/Debug/netcoreapp3.1/19_For_Loops
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/bin/Debug/netcoreapp3.1/19_For_Loops.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/bin/Debug/netcoreapp3.1/19_For_Loops.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/bin/Debug/netcoreapp3.1/19_For_Loops.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/bin/Debug/netcoreapp3.1/19_For_Loops.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/bin/Debug/netcoreapp3.1/19_For_Loops.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/obj/Debug/netcoreapp3.1/19_For_Loops.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/obj/Debug/netcoreapp3.1/19_For_Loops.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/obj/Debug/netcoreapp3.1/19_For_Loops.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/obj/Debug/netcoreapp3.1/19_For_Loops.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/19_For_Loops/obj/Debug/netcoreapp3.1/19_For_Loops.pdb

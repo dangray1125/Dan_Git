@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/obj/Debug/netcoreapp3.1/22_Break_Continue_Statements.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/obj/Debug/netcoreapp3.1/22_Break_Continue_Statements.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/obj/Debug/netcoreapp3.1/22_Break_Continue_Statements.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/bin/Debug/netcoreapp3.1/22_Break_Continue_Statements
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/bin/Debug/netcoreapp3.1/22_Break_Continue_Statements.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/bin/Debug/netcoreapp3.1/22_Break_Continue_Statements.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/bin/Debug/netcoreapp3.1/22_Break_Continue_Statements.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/bin/Debug/netcoreapp3.1/22_Break_Continue_Statements.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/bin/Debug/netcoreapp3.1/22_Break_Continue_Statements.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/obj/Debug/netcoreapp3.1/22_Break_Continue_Statements.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/22_Break_Continue_Statements/obj/Debug/netcoreapp3.1/22_Break_Continue_Statements.pdb

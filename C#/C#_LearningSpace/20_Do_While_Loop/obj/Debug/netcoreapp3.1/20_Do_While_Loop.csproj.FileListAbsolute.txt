@@ -1,0 +1,11 @@
+/home/dan/20_Do_While_Loop/bin/Debug/netcoreapp3.1/20_Do_While_Loop
+/home/dan/20_Do_While_Loop/bin/Debug/netcoreapp3.1/20_Do_While_Loop.deps.json
+/home/dan/20_Do_While_Loop/bin/Debug/netcoreapp3.1/20_Do_While_Loop.runtimeconfig.json
+/home/dan/20_Do_While_Loop/bin/Debug/netcoreapp3.1/20_Do_While_Loop.runtimeconfig.dev.json
+/home/dan/20_Do_While_Loop/bin/Debug/netcoreapp3.1/20_Do_While_Loop.dll
+/home/dan/20_Do_While_Loop/bin/Debug/netcoreapp3.1/20_Do_While_Loop.pdb
+/home/dan/20_Do_While_Loop/obj/Debug/netcoreapp3.1/20_Do_While_Loop.csprojAssemblyReference.cache
+/home/dan/20_Do_While_Loop/obj/Debug/netcoreapp3.1/20_Do_While_Loop.AssemblyInfoInputs.cache
+/home/dan/20_Do_While_Loop/obj/Debug/netcoreapp3.1/20_Do_While_Loop.AssemblyInfo.cs
+/home/dan/20_Do_While_Loop/obj/Debug/netcoreapp3.1/20_Do_While_Loop.dll
+/home/dan/20_Do_While_Loop/obj/Debug/netcoreapp3.1/20_Do_While_Loop.pdb
