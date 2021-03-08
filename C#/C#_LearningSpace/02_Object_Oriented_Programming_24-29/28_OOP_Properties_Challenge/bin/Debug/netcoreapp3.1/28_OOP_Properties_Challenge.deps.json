@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "28_OOP_Properties_Challenge/1.0.0": {
+        "runtime": {
+          "28_OOP_Properties_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "28_OOP_Properties_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

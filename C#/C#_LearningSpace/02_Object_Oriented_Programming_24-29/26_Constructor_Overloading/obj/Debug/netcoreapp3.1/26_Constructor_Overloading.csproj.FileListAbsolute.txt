@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/obj/Debug/netcoreapp3.1/26_Constructor_Overloading.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/obj/Debug/netcoreapp3.1/26_Constructor_Overloading.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/obj/Debug/netcoreapp3.1/26_Constructor_Overloading.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/bin/Debug/netcoreapp3.1/26_Constructor_Overloading
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/bin/Debug/netcoreapp3.1/26_Constructor_Overloading.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/bin/Debug/netcoreapp3.1/26_Constructor_Overloading.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/bin/Debug/netcoreapp3.1/26_Constructor_Overloading.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/bin/Debug/netcoreapp3.1/26_Constructor_Overloading.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/bin/Debug/netcoreapp3.1/26_Constructor_Overloading.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/obj/Debug/netcoreapp3.1/26_Constructor_Overloading.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/26_Constructor_Overloading/obj/Debug/netcoreapp3.1/26_Constructor_Overloading.pdb

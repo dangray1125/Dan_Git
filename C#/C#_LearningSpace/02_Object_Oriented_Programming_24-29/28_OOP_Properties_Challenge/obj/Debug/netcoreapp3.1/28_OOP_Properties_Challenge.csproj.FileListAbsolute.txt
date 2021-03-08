@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/obj/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/obj/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/obj/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/bin/Debug/netcoreapp3.1/28_OOP_Properties_Challenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/bin/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/bin/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/bin/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/bin/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/bin/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/obj/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/28_OOP_Properties_Challenge/obj/Debug/netcoreapp3.1/28_OOP_Properties_Challenge.pdb

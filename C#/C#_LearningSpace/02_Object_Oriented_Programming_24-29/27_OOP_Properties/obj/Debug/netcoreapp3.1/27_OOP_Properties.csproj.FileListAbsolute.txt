@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/bin/Debug/netcoreapp3.1/27_OOP_Properties
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/bin/Debug/netcoreapp3.1/27_OOP_Properties.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/bin/Debug/netcoreapp3.1/27_OOP_Properties.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/bin/Debug/netcoreapp3.1/27_OOP_Properties.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/bin/Debug/netcoreapp3.1/27_OOP_Properties.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/bin/Debug/netcoreapp3.1/27_OOP_Properties.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/obj/Debug/netcoreapp3.1/27_OOP_Properties.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/obj/Debug/netcoreapp3.1/27_OOP_Properties.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/obj/Debug/netcoreapp3.1/27_OOP_Properties.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/obj/Debug/netcoreapp3.1/27_OOP_Properties.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/27_OOP_Properties/obj/Debug/netcoreapp3.1/27_OOP_Properties.pdb
