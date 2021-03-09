@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/bin/Debug/netcoreapp3.1/30_Arrays
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/bin/Debug/netcoreapp3.1/30_Arrays.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/bin/Debug/netcoreapp3.1/30_Arrays.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/bin/Debug/netcoreapp3.1/30_Arrays.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/bin/Debug/netcoreapp3.1/30_Arrays.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/bin/Debug/netcoreapp3.1/30_Arrays.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/obj/Debug/netcoreapp3.1/30_Arrays.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/obj/Debug/netcoreapp3.1/30_Arrays.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/obj/Debug/netcoreapp3.1/30_Arrays.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/obj/Debug/netcoreapp3.1/30_Arrays.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/Object_Oriented_Programming/30_Arrays/obj/Debug/netcoreapp3.1/30_Arrays.pdb

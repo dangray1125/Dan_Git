@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/bin/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/bin/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/bin/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/bin/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/bin/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/bin/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/obj/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/obj/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/obj/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/obj/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/32_Foreach_SwitchStatment_Challenge/obj/Debug/netcoreapp3.1/32_Foreach_SwitchStatment_Challenge.pdb

@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/bin/Debug/netcoreapp3.1/31_Foreach_Loop
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/bin/Debug/netcoreapp3.1/31_Foreach_Loop.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/bin/Debug/netcoreapp3.1/31_Foreach_Loop.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/bin/Debug/netcoreapp3.1/31_Foreach_Loop.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/bin/Debug/netcoreapp3.1/31_Foreach_Loop.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/bin/Debug/netcoreapp3.1/31_Foreach_Loop.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/obj/Debug/netcoreapp3.1/31_Foreach_Loop.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/obj/Debug/netcoreapp3.1/31_Foreach_Loop.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/obj/Debug/netcoreapp3.1/31_Foreach_Loop.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/obj/Debug/netcoreapp3.1/31_Foreach_Loop.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/31_Foreach_Loop/obj/Debug/netcoreapp3.1/31_Foreach_Loop.pdb

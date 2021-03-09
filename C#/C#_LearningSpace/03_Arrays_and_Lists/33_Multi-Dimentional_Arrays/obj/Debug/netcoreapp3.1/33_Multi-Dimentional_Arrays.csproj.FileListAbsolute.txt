@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/bin/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/bin/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/bin/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/bin/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/bin/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/bin/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/obj/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/obj/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/obj/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/obj/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/33_Multi-Dimentional_Arrays/obj/Debug/netcoreapp3.1/33_Multi-Dimentional_Arrays.pdb
