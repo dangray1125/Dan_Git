@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "37_Arrays_as_Parameters/1.0.0": {
+        "runtime": {
+          "37_Arrays_as_Parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "37_Arrays_as_Parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

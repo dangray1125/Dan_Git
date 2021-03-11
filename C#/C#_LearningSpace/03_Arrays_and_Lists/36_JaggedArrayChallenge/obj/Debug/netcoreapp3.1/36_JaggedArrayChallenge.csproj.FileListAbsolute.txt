@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/obj/Debug/netcoreapp3.1/36_JaggedArrayChallenge.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/obj/Debug/netcoreapp3.1/36_JaggedArrayChallenge.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/obj/Debug/netcoreapp3.1/36_JaggedArrayChallenge.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/bin/Debug/netcoreapp3.1/36_JaggedArrayChallenge
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/bin/Debug/netcoreapp3.1/36_JaggedArrayChallenge.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/bin/Debug/netcoreapp3.1/36_JaggedArrayChallenge.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/bin/Debug/netcoreapp3.1/36_JaggedArrayChallenge.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/bin/Debug/netcoreapp3.1/36_JaggedArrayChallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/bin/Debug/netcoreapp3.1/36_JaggedArrayChallenge.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/obj/Debug/netcoreapp3.1/36_JaggedArrayChallenge.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/36_JaggedArrayChallenge/obj/Debug/netcoreapp3.1/36_JaggedArrayChallenge.pdb

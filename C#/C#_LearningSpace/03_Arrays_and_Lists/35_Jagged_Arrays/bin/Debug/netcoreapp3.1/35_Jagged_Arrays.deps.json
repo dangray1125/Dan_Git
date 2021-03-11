@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "35_Jagged_Arrays/1.0.0": {
+        "runtime": {
+          "35_Jagged_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "35_Jagged_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

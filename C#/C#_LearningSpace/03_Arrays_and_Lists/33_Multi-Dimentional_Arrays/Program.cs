@@ -7,10 +7,12 @@ namespace _33_Multi_Dimentional_Arrays
         static void Main(string[] args)
         {
             //declare a 2d array
-            string[,] matrix;
+           
+           // string[,] matrix;
 
             // 3d array
-            int [,,] threeD;
+           
+           // int [,,] threeD;
 
 
             // two dimensional array

@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/obj/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/obj/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/obj/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/bin/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/bin/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/bin/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/bin/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/bin/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/bin/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/obj/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/34_Array_Challenge_TicTacToe/obj/Debug/netcoreapp3.1/34_Array_Challenge_TicTacToe.pdb

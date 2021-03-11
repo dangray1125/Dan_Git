@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/bin/Debug/netcoreapp3.1/35_Jagged_Arrays
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/bin/Debug/netcoreapp3.1/35_Jagged_Arrays.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/bin/Debug/netcoreapp3.1/35_Jagged_Arrays.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/bin/Debug/netcoreapp3.1/35_Jagged_Arrays.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/bin/Debug/netcoreapp3.1/35_Jagged_Arrays.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/bin/Debug/netcoreapp3.1/35_Jagged_Arrays.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/obj/Debug/netcoreapp3.1/35_Jagged_Arrays.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/obj/Debug/netcoreapp3.1/35_Jagged_Arrays.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/obj/Debug/netcoreapp3.1/35_Jagged_Arrays.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/obj/Debug/netcoreapp3.1/35_Jagged_Arrays.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/35_Jagged_Arrays/obj/Debug/netcoreapp3.1/35_Jagged_Arrays.pdb

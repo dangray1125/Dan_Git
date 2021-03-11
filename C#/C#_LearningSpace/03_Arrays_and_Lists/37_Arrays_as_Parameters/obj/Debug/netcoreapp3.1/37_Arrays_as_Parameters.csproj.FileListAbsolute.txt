@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/obj/Debug/netcoreapp3.1/37_Arrays_as_Parameters.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/obj/Debug/netcoreapp3.1/37_Arrays_as_Parameters.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/obj/Debug/netcoreapp3.1/37_Arrays_as_Parameters.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/bin/Debug/netcoreapp3.1/37_Arrays_as_Parameters
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/bin/Debug/netcoreapp3.1/37_Arrays_as_Parameters.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/bin/Debug/netcoreapp3.1/37_Arrays_as_Parameters.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/bin/Debug/netcoreapp3.1/37_Arrays_as_Parameters.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/bin/Debug/netcoreapp3.1/37_Arrays_as_Parameters.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/bin/Debug/netcoreapp3.1/37_Arrays_as_Parameters.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/obj/Debug/netcoreapp3.1/37_Arrays_as_Parameters.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/37_Arrays_as_Parameters/obj/Debug/netcoreapp3.1/37_Arrays_as_Parameters.pdb
