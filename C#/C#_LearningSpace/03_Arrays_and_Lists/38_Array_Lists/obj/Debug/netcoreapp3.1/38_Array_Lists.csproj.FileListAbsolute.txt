@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/bin/Debug/netcoreapp3.1/38_Array_Lists
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/bin/Debug/netcoreapp3.1/38_Array_Lists.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/bin/Debug/netcoreapp3.1/38_Array_Lists.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/bin/Debug/netcoreapp3.1/38_Array_Lists.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/bin/Debug/netcoreapp3.1/38_Array_Lists.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/bin/Debug/netcoreapp3.1/38_Array_Lists.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/obj/Debug/netcoreapp3.1/38_Array_Lists.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/obj/Debug/netcoreapp3.1/38_Array_Lists.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/obj/Debug/netcoreapp3.1/38_Array_Lists.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/obj/Debug/netcoreapp3.1/38_Array_Lists.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/03_Arrays_and_Lists/38_Array_Lists/obj/Debug/netcoreapp3.1/38_Array_Lists.pdb
