@@ -20,7 +20,7 @@ namespace _38_Array_Lists
             myArrayList.Add(28);
             myArrayList.Add(25.7);
             myArrayList.Add("Monkey");
-
+            myArrayList.Add(new Number { n =4});
             // delete and element with a specific value from arraylist
             myArrayList.Remove(15);
 
@@ -54,9 +54,15 @@ namespace _38_Array_Lists
             System.Console.WriteLine("The sum of the numbers is {0}", sum);
             Console.ReadKey();
 
+        }
+        class Number
+        {
+            public int n { get; set; }
 
-
-
+            public override string ToString()
+            {
+                return n.ToString();
+            }
         }
     }
 }
