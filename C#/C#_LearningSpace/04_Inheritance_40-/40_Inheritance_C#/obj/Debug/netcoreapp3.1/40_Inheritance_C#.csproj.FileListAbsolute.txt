@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/obj/Debug/netcoreapp3.1/40_Inheritance_C#.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/obj/Debug/netcoreapp3.1/40_Inheritance_C#.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/obj/Debug/netcoreapp3.1/40_Inheritance_C#.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/bin/Debug/netcoreapp3.1/40_Inheritance_C#
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/bin/Debug/netcoreapp3.1/40_Inheritance_C#.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/bin/Debug/netcoreapp3.1/40_Inheritance_C#.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/bin/Debug/netcoreapp3.1/40_Inheritance_C#.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/bin/Debug/netcoreapp3.1/40_Inheritance_C#.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/bin/Debug/netcoreapp3.1/40_Inheritance_C#.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/obj/Debug/netcoreapp3.1/40_Inheritance_C#.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/40_Inheritance_C#/obj/Debug/netcoreapp3.1/40_Inheritance_C#.pdb

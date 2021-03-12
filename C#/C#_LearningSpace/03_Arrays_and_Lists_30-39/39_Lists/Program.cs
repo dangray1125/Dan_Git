@@ -39,12 +39,7 @@ namespace _39_Lists
             list.RemoveAt(index);
             
             System.Console.WriteLine("The list contains these integers:");
-            list.ForEach(i => Console.WriteLine(i)); //(i => Console.WriteLine(i)) is a lambda expression again.
-
-            
-
-        
-        
+            list.ForEach(i => Console.WriteLine(i)); //(i => Console.WriteLine(i)) is a lambda expression again.      
         }
     }
 }
