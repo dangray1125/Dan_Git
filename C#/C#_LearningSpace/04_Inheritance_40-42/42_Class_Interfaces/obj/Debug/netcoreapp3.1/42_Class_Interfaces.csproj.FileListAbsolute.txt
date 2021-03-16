@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/obj/Debug/netcoreapp3.1/42_Class_Interfaces.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/obj/Debug/netcoreapp3.1/42_Class_Interfaces.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/obj/Debug/netcoreapp3.1/42_Class_Interfaces.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/bin/Debug/netcoreapp3.1/42_Class_Interfaces
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/bin/Debug/netcoreapp3.1/42_Class_Interfaces.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/bin/Debug/netcoreapp3.1/42_Class_Interfaces.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/bin/Debug/netcoreapp3.1/42_Class_Interfaces.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/bin/Debug/netcoreapp3.1/42_Class_Interfaces.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/bin/Debug/netcoreapp3.1/42_Class_Interfaces.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/obj/Debug/netcoreapp3.1/42_Class_Interfaces.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/04_Inheritance_40-/42_Class_Interfaces/obj/Debug/netcoreapp3.1/42_Class_Interfaces.pdb
