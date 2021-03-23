@@ -8,7 +8,7 @@ namespace _43_Polymorphism_1
         {
            this.Model = model;
         }
-        public override void ShowDetails()
+        public new void ShowDetails()
         {
             System.Console.WriteLine("This is a {0}, {1} {2}, with {3} horsepower",this.Color, Brand, this.Model, this.HP);
         }

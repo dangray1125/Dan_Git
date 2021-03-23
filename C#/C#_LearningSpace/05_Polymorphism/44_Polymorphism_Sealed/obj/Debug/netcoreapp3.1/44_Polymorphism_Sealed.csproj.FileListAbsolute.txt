@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/bin/Debug/netcoreapp3.1/44_Polymorphism_Sealed
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/bin/Debug/netcoreapp3.1/44_Polymorphism_Sealed.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/bin/Debug/netcoreapp3.1/44_Polymorphism_Sealed.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/bin/Debug/netcoreapp3.1/44_Polymorphism_Sealed.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/bin/Debug/netcoreapp3.1/44_Polymorphism_Sealed.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/bin/Debug/netcoreapp3.1/44_Polymorphism_Sealed.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/obj/Debug/netcoreapp3.1/44_Polymorphism_Sealed.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/obj/Debug/netcoreapp3.1/44_Polymorphism_Sealed.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/obj/Debug/netcoreapp3.1/44_Polymorphism_Sealed.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/obj/Debug/netcoreapp3.1/44_Polymorphism_Sealed.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/44_Polymorphism_Sealed/obj/Debug/netcoreapp3.1/44_Polymorphism_Sealed.pdb

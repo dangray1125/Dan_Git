@@ -1,13 +1,12 @@
-namespace _43_Polymorphism_1
+namespace _44_Polymorphism_Sealed
 {
-    public class BMW:Car
+    public class Audi:Car
     {
         public string Model {get;set;}
-        private string Brand = "BMW";
-
-        public BMW (int hp, string color , string model):base(hp,color)
+        private string Brand = "Audi";
+         public Audi (int hp, string color , string model):base(hp,color)
         {
-           this.Model = model;  
+           this.Model = model;
         }
         public new void ShowDetails()
         {
@@ -15,7 +14,7 @@ namespace _43_Polymorphism_1
         }
         public override void Repair()
         {
-            System.Console.WriteLine("This {0} {1}, has been repair.",Brand, this.Model);
+            System.Console.WriteLine("This {0} {1}, has been repair.",this.Brand, this.Model);
         }
     }
 }

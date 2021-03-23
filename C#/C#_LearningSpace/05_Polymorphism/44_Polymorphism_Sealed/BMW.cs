@@ -1,4 +1,4 @@
-namespace _43_Polymorphism_1
+namespace _44_Polymorphism_Sealed
 {
     public class BMW:Car
     {
@@ -13,7 +13,7 @@ namespace _43_Polymorphism_1
         {
             System.Console.WriteLine("This is a {0}, {1} {2}, with {3} horsepower",this.Color, Brand, this.Model, this.HP);
         }
-        public override void Repair()
+        public sealed override void Repair()
         {
             System.Console.WriteLine("This {0} {1}, has been repair.",Brand, this.Model);
         }
