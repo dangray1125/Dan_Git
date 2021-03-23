@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/bin/Debug/netcoreapp3.1/43_Polymorphism_1
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/bin/Debug/netcoreapp3.1/43_Polymorphism_1.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/bin/Debug/netcoreapp3.1/43_Polymorphism_1.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/bin/Debug/netcoreapp3.1/43_Polymorphism_1.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/bin/Debug/netcoreapp3.1/43_Polymorphism_1.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/bin/Debug/netcoreapp3.1/43_Polymorphism_1.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/obj/Debug/netcoreapp3.1/43_Polymorphism_1.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/obj/Debug/netcoreapp3.1/43_Polymorphism_1.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/obj/Debug/netcoreapp3.1/43_Polymorphism_1.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/obj/Debug/netcoreapp3.1/43_Polymorphism_1.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/43_Polymorphism_1/obj/Debug/netcoreapp3.1/43_Polymorphism_1.pdb

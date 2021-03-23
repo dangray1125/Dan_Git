@@ -1,0 +1,11 @@
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/bin/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/bin/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.deps.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/bin/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.runtimeconfig.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/bin/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.runtimeconfig.dev.json
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/bin/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/bin/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.pdb
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/obj/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.csprojAssemblyReference.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/obj/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.AssemblyInfoInputs.cache
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/obj/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.AssemblyInfo.cs
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/obj/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.dll
+/home/dan/Development/Dan_Git/C#/C#_LearningSpace/05_Polymorphism/45_Polymorphism_Has_A_Relasionships/obj/Debug/netcoreapp3.1/45_Polymorphism_Has_A_Relasionships.pdb
